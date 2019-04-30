@@ -1,0 +1,8 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<THIS IS THE HELP FILE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+usage: Manage the users and groups. Like create user, create group, assign users to groups, etc...
+
+Mandatory arguments to long options are mandatory for short options too.
+
+-h, --help     display this help and exit
+

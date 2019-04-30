@@ -1,0 +1,7 @@
+How to run the program on the terminal
+--------------------------------------
+1)Run the project on the IDE to compile
+2)Go to "out/production/usermanager"
+3)Type on the terminal "java Main"
+
+4)If you want to run the help just type "java Main -h" or "java Main --help"

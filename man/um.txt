@@ -1,0 +1,29 @@
+.\"This is the Manual file
+
+.TH UM "1" "May 2019" "GNU GPL" "User Commands"
+
+.SH NAME
+um \- blab blab blah
+
+.SH SYNOPSIS
+.B um
+blab blab blah ... blab blab blah
+
+.SH DESCRIPTION
+
+.PP
+blab blab blah.
+.PP
+blab blab blah.
+
+.TP
+\fB\-h\fR, \fB\-\-help\fR
+display this help and exit
+
+.SH COPYRIGHT
+Copyright \(co 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+
+.br
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
